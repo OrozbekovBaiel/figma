@@ -1,12 +1,13 @@
 body{
   margin: 0;
   background-color: rgb(199, 27, 27);
+  flex: ;
 }
 .navbar{
   display: flex;
   justify-content: space-between;
 }
-}
+
 ul{
   display: flex;
 }
@@ -16,4 +17,7 @@ ul{
 .example-1 img{
   position: relative;
   margin-right: 50px;
+}
+.example-1 p{
+
 }
