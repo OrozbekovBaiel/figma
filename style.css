@@ -11,6 +11,10 @@ body{
 ul{
   display: flex;
 }
+
+
+
+
 .example-1{
   display: flex;
 }
@@ -19,5 +23,5 @@ ul{
   margin-right: 50px;
 }
 .example-1 p{
-font-size: 50px;
+font-size: 30px;
 }
