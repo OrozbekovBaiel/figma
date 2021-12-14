@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  background-color: rgb(199, 27, 27);
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+}
+}
+ul{
+  display: flex;
+}
+.example-1{
+  display: flex;
+}
+.example-1 img{
+  position: relative;
+  margin-right: 50px;
+}
