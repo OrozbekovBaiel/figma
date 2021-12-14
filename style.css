@@ -18,7 +18,7 @@ ul{
 }
 .example-1 img{
   margin-right: 50px;
-  
+
   position: absolute;
 height: 546px;
 left: 51.16%;
@@ -30,4 +30,22 @@ border-radius: 0px;
 }
 .example-1 p{
 font-size: 30px;
+
+
+position: absolute;
+height: 52px;
+left: 0%;
+right: 16.67%;
+top: 174.5px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+
+color: #222222;
+
 }
