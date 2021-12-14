@@ -1,8 +1,6 @@
 body{
   margin: 0;
-  background-color: rgb(199, 27, 27);
-  flex: ;
-}
+  flex: 0 0 50%;}
 .navbar{
   display: flex;
   flex: 0 0 50%;
@@ -19,8 +17,16 @@ ul{
   display: flex;
 }
 .example-1 img{
-  position: relative;
   margin-right: 50px;
+  
+  position: absolute;
+height: 546px;
+left: 51.16%;
+right: 3.49%;
+top: -74px;
+
+background: url(.png);
+border-radius: 0px;
 }
 .example-1 p{
 font-size: 30px;
