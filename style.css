@@ -5,7 +5,7 @@ body{
 }
 .navbar{
   display: flex;
-  justify-content: space-between;
+  flex: 0 0 50%;
 }
 
 ul{
@@ -19,5 +19,5 @@ ul{
   margin-right: 50px;
 }
 .example-1 p{
-
+font-size: 50px;
 }
